@@ -1,10 +1,8 @@
 > This folders will contain your reports
 ## Week by week plan
-|...|Jet Lee|Jacky Chan|
+|...|Aibek Zhorabek|Alisher Tilvaldiyev|
 |---|---|---|
-|Week #3|Create home web page|Design home web page|
-|Week #4|Create database models|Analyze customer expectations|
-|Week #5|Create home web page|Design home web page|
-|Week #6|Create database models|Analyze customer expectations|
+|Week #6|Design authorization, registration web pages, Create authorization, registration web pages|ERD schema, DB migration schema, REST API endpoints for authorization and registration pages|
+|Week #7|Design home web page, Create home web page|ERD schema, DB migration schema, REST API endpoints for home page|
 |...|...|...|
 |Week #15|...|...|
